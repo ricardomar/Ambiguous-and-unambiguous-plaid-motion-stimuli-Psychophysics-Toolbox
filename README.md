@@ -12,9 +12,11 @@ This is just a simple demonstration. The logic behind this code can be integrate
 
 ## Demonstration: 
 
-Video (ambiguous version):
+- Video (ambiguous version):
+
 [![alt text](https://img.youtube.com/vi/6RZPi2xABo4/0.jpg)](https://www.youtube.com/watch?v=6RZPi2xABo4)
 
 
-Video (unambiguous version):
+- Video (unambiguous version):
+
 [![alt text](https://img.youtube.com/vi/00vUuvh5XUA/0.jpg)](https://youtu.be/00vUuvh5XUA)
