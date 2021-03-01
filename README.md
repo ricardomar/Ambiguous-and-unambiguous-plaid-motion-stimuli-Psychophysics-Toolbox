@@ -1,4 +1,6 @@
 # Ambiguous and unambiguous plaid motion stimuli Psychophysics Toolbox
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570650.svg)](https://doi.org/10.5281/zenodo.4570650)
+
 
 ## Description:
 
